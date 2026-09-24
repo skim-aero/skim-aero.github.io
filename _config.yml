@@ -116,52 +116,43 @@ analytics:
 author:
   name             : "Sukkeun Kim"
   avatar           : "/assets/images/Sukkeun.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio: |
+    I am an **amazing** person.
+    Aerospace enginner.
+    Ultra runner.
   location         : "Somewhere on Earth"
   email            : 
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
-  links:
-    - label: "s.kim.aero@gmail.com"
-      icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:s.kim.aero@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+links:
+  - label: "CV"
+    icon: "fas fa-fw fa-file-pdf"
+    url: "/assets/files/CV_Sukkeun.pdf"
+  - label: "s.kim.aero@gmail.com"
+    icon: "fas fa-fw fa-square-envelope"
+    url: "mailto:s.kim.aero@gmail.com"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/sukkeun-kim-557977182/"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/skim-aero"
+  - label: "Google Scholar"
+    icon: "ai ai-google-scholar" # Or "fas fa-fw fa-graduation-cap" depending on your icon set
+    url: "https://scholar.google.com/citations?user=ucaZIY0AAAAJ&hl=en"
+  - label: "ORCID"
+    icon: "fab fa-fw fa-orcid"
+    url: "https://orcid.org/0000-0001-6903-5437"
+
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url:
-      # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sukkeun-kim-557977182/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/skim-aero"
   since: "2026"
 
 
