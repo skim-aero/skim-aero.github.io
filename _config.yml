@@ -121,9 +121,6 @@ author:
   email            : 
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
-    - label: "CV"
-      icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/files/CV_Sukkeun.pdf"
     - label: "s.kim.aero@gmail.com"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:s.kim.aero@gmail.com"
@@ -134,11 +131,14 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/skim-aero"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar" # Or "fas fa-fw fa-graduation-cap" depending on your icon set
+      icon: "fas fa-fw fa-graduation-cap" # Or "fas fa-fw fa-graduation-cap" depending on your icon set
       url: "https://scholar.google.com/citations?user=ucaZIY0AAAAJ&hl=en"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0001-6903-5437"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/files/CV_Sukkeun.pdf"
 
 
 # Site Footer
