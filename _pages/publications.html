@@ -5,7 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p>Here is a list of my peer-reviewed publications and conference papers.</p>
+<p>Here is a list of my peer-reviewed journal and conference papers.</p>
 
-<!-- This automatically pulls from _bibliography/references.bib -->
-{% bibliography --query @* %}
+<!-- Peer-reviewed Journal Articles -->
+<h3>Peer-reviewed Journal Articles</h3>
+<ul>
+  {% bibliography --query @article %}
+</ul>
+
+<div style="margin-top: 20px;"></div>
+
+<!-- Peer-reviewed Conferences -->
+<h3>Peer-reviewed Conferences</h3>
+<ul>
+  {% bibliography --query @inproceedings %}
+</ul>
+
+<!-- Footnote / Note -->
+<p style="font-size: 0.85em; color: #666; margin-top: 30px;">
+  <em>*Preliminary works are marked with an asterisk.</em>
+</p>
+
+<!-- Last Update Section -->
+<p style="font-size: 0.9em; color: #666; margin-top: 30px;">
+  <em>Last update: 01.10.2026</em>
+</p>
