@@ -24,8 +24,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.7'
-          bundler-cache: true
+          bundler-cache: true # Automatically installs and caches gems
 
       - name: Setup Pages
         id: pages
