@@ -150,9 +150,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/skim-aero"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap" # Or "fas fa-fw fa-graduation-cap" depending on your icon set
-      url: "https://scholar.google.com/citations?user=ucaZIY0AAAAJ&hl=en"
   since: "2026"
 
 
