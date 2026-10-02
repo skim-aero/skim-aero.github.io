@@ -1,9 +1,9 @@
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
-gem "nokogiri", "~> 1.15.0"
-gem "uri", "0.10.0" # Matches Ruby 2.7's default version to prevent conflicts
 
+# Pin jekyll-scholar and bibtex-ruby to versions fully stable on Ruby 3.1
 group :jekyll_plugins do
-  gem "jekyll-scholar"
+  gem "bibtex-ruby", "~> 6.0"
+  gem "jekyll-scholar", "~> 7.0"
 end
