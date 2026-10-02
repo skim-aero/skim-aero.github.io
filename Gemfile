@@ -1,9 +1,10 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+ruby "3.1.7"
 
-# Pin jekyll-scholar and bibtex-ruby to versions fully stable on Ruby 3.1
+gem "jekyll", "~> 4.3"
+
 group :jekyll_plugins do
-  gem "bibtex-ruby", "~> 6.0"
-  gem "jekyll-scholar", "~> 7.0"
+  gem "jekyll-scholar"
+  gem "kramdown-parser-gfm"
 end
