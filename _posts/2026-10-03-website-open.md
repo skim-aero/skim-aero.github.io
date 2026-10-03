@@ -14,7 +14,7 @@ Welcome, everyone, whether you know me personally or not. I am happy that you vi
 <div style="margin: 25px 0;">
   <img src="/assets/images/New_website_1.png" alt="The main page of my brand new website with GitHub" style="width: 80%; border-radius: 5px; display: block; margin: 0 auto;">
   <p style="font-size: 0.85em; color: #666; margin: 8px 0 25px 0; text-align: center;">
-    The <a href="/about/" style="color: #666; text-decoration: underline;">main page</a> of my brand new website with GitHub
+    The <a href="/" style="color: #666; text-decoration: underline;">main page</a> of my brand new website with GitHub
   </p>
 </div>
 
@@ -53,7 +53,7 @@ Well, I am not so clear on the direction I will take with this platform at the m
 
 On my website, there are four pages at the moment as follows:
 
-- [About](/about/)
+- [About](/)
 - [Research](/research/)
 - [Publications](/publications/)
 - [Posts](/posts/)
