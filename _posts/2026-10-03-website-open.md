@@ -20,9 +20,9 @@ Welcome, everyone, whether you know me personally or not. I am happy that you vi
 First of all, here is some background on why I have started this small project. I already have a very basic-ish website that I created more than 5 years ago with Google Sites. Yes, it did its job quite well for the basic purpose in the beginning -- just like a digital version of my CV and some nice introduction to my research. One day I decided to make dark mode on my website, but apparently Google Sites doesn't (I assume Google Sites itself as a brand name!) support that function... At the same time, I noticed many researchers provide their website based on GitHub, and they **DO** support dark mode. That was the first reason why I wanted to migrate to a GitHub-based website.
 
 <div style="margin: 25px 0;">
-  <img src="/assets/images/Old_website.png" alt="My old website with Google Sites" style="width: 80%; border-radius: 5px; display: block; margin: 0 auto;">
+  <img src="/assets/images/Old_website.png" alt="The main page of my old website with Google Sites" style="width: 80%; border-radius: 5px; display: block; margin: 0 auto;">
   <p style="font-size: 0.85em; color: #666; margin: 8px 0 25px 0; text-align: center;">
-    My old website with Google Sites
+    The main of my old website with Google Sites
   </p>
 </div>
 
