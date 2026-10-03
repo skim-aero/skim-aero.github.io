@@ -9,7 +9,7 @@ tags: [Life, Updates]
 Welcome, everyone, whether you know me personally or not. I am happy that you visited this random website and are reading this random post! In this post, I would like to tell you a short story about why and how I started this small project of creating my new website. Maybe it is not that interesting, but just give it a try. In addition to that, since this is my very first post on my new website, things might not be perfect, but I believe you would be fine with that!
 
 <div style="margin: 25px 0;">
-  <img src="/assets/images/New_website.png" alt="The main page of my brand new website with GitHub" style="width: 80%; border-radius: 5px; display: block; margin: 0 auto;">
+  <img src="/assets/images/New_website_1.png" alt="The main page of my brand new website with GitHub" style="width: 80%; border-radius: 5px; display: block; margin: 0 auto;">
   <p style="font-size: 0.85em; color: #666; margin: 8px 0 25px 0; text-align: center;">
     The main page of my brand new website with GitHub
   </p>
