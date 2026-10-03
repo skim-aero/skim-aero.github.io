@@ -6,6 +6,7 @@ categories: [Research, Life, Updates]
 tags: [Life, Updates]
 header:
   teaser: /assets/images/New_website_1.png
+og_image: /assets/images/New_website_1.png
 ---
 
 Welcome, everyone, whether you know me personally or not. I am happy that you visited this random website and are reading this random post! In this post, I would like to tell you a short story about why and how I started this small project of creating my new website. Maybe it is not that interesting, but just give it a try. In addition to that, since this is my very first post on my new website, things might not be perfect, but I believe you would be fine with that!
