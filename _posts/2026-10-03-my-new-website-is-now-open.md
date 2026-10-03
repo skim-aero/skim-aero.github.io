@@ -21,10 +21,20 @@ First of all, here are some backgrounds why I have strated this small project. I
 
 Here is the second reason. I recently resigned from my postdoc position for several personal reasons (nothing bad and I enjoyed the time but needed to move on). And I was thinking this would be the best thing I can start with during this free(-ish) time and do something **productive**. Yes, I decided to start this small project! There is nothing interesting at the moment but I am builiding this little by little.
 
-Ah, at last there is one more reason. I like writing and talking with people. However, I am a bit tired of many social media platforms and I started cutting myself off from many platforms. I used to be very active on Instagram for many years to post my photography and interact with people. I wanted to create a space where I can post my own thoughts and many some photos but not like other platforms where I might be lost in the flood of random news and reels.
+Ah, last but not least, there is one more reason. I like writing and talking with people. However, I am a bit tired of many social media platforms and I started cutting myself off from many platforms. I used to be very active on Instagram for many years to post my photography and interact with people. I wanted to create a space where I can post my own thoughts and many some photos but not like other platforms where I might be lost in the flood of random news and reels, that being said I might introduce a new "Gallery" section one day in my website?
 
 ## What Will I Do with This?
 
 Well, I am not so clear for the direction I will take with this platform at the moment. I might be a bit of mix of my digital CV and posts of research and tiny bit of personal life, I guess. I shall share some previous research topics I have worked and some interesting (at least for me) life stories from me. Also, I would like to share some my personal projects here later if I can't share my research at my next job! But again, nothing has been decided properly.
 
 ## How I Made This Website?
+
+If you are a stranger who doesn't know me personally but accidentaly landed here, you are just wondering how I created this website. Fair enough, I landed Lexi's github website when I started to make this website. I guess it would be easier to link [Lexi's post](https://lexi-jones.github.io/website-creation/) here instead of repeating the same post.
+
+### Instead of Fork Method...
+
+One different path I took from the original one above is not using "Fork Method" on github. If you read the post above, a fork method from [Jekyll Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) is introduced (and alos the caveat with that method). I simply created Github repo for my website based on [official Github tutorial](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site), cloned Jekyll Minimal Mistakes and pushed to my own repo. It's a lot simpler because you don't need to go through the unlinking request.
+
+### Publications Section
+
+This is kind of a problematic section at the moment. I was trying to use *.bibtex* directly to import my publications and list them using [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar), but it didn't go so well yet. I guess it is because of the **Ruby** version but haven't figured out. I might continue work on it later and will make some update here.
