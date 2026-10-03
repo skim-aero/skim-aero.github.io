@@ -25,7 +25,7 @@ First of all, here is some background on why I have started this small project. 
 <div style="margin: 25px 0;">
   <img src="/assets/images/Old_website.png" alt="The main page of my old website with Google Sites" style="width: 80%; border-radius: 5px; display: block; margin: 0 auto;">
   <p style="font-size: 0.85em; color: #666; margin: 8px 0 25px 0; text-align: center;">
-    The main of my old website with Google Sites
+    The main page of my old website with Google Sites
   </p>
 </div>
 
